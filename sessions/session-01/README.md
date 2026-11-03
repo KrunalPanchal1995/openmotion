@@ -1,6 +1,6 @@
 # Session 1: One motion, three graphs: slope and area
 
-[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md) · [Session 1 — தமிழ்](README.ta.md)
+[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md) · [Session 1 — தமிழ்](README.ta.md) · [Session 1 — తెలుగు](README.te.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · openmotion*
 
